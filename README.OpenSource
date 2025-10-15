@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-status-bar-height",
+        "License": "MIT License",
+        "License File": "https://github.com/ovr/react-native-status-bar-height?tab=readme-ov-file#license",
+        "Version Number": "2.6.0",
+        "Owner": "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/ovr/react-native-status-bar-height",
+        "Description": "Small library that helps you to get status bar height"
+    }
+]

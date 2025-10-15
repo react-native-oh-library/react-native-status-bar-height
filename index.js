@@ -75,6 +75,7 @@ export function getStatusBarHeight(skipAndroid) {
   return Platform.select({
     ios: statusBarHeight,
     android: skipAndroid ? 0 : StatusBar.currentHeight,
+    harmony: StatusBar.currentHeight,
     default: 0,
   });
 }
