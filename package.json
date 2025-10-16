@@ -1,6 +1,6 @@
 {
   "name": "@react-native-oh-tpl/react-native-status-bar-height",
-  "version": "2.6.0-0.0.1",
+  "version": "2.6.0-0.0.1.rc.1",
   "description": "Get status bar height for React Native App",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -8,9 +8,13 @@
     "test": "npx jest --coverage",
     "tsc": "tsc"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+     "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ovr/react-native-status-bar-height.git"
+    "url": "https://github.com/react-native-oh-library/react-native-status-bar-height.git"
   },
   "keywords": [
     "react-native"
@@ -18,9 +22,9 @@
   "author": "Dmitry Patsura <talk@dmtry.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ovr/react-native-status-bar-height/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-status-bar-height/issues"
   },
-  "homepage": "https://github.com/ovr/react-native-status-bar-height#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-status-bar-height#readme",
   "devDependencies": {
     "@babel/preset-typescript": "^7.12.7",
     "@types/jest": "^26.0.19",
