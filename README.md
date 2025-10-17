@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-status-bar-height
+# @react-native-ohos/react-native-status-bar-height
 
 This project is based on [react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height/tree/v2.6.0)
 
